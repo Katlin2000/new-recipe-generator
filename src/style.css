@@ -4,7 +4,7 @@ body {
 }
 
 a {
-    color: #885df1;
+  color: #885df1;
 }
 
 .container {
@@ -21,7 +21,7 @@ h1 {
 }
 
 main {
-    margin-bottom: 30px;?????????????
+  margin-bottom: 30px;
 }
 
 form {
@@ -44,27 +44,27 @@ form {
 }
 
 .submit-button {
-    margin-left: 10px;
-    background-color: #885df1;
-    color: white;
-    border: none;
-    width: 150px;
-    font-size: 16px;
-    border-radius: 50px;
-    padding: 14px 24px;
+  margin-left: 10px;
+  background-color: #885df1;
+  color: white;
+  border: none;
+  width: 150px;
+  font-size: 16px;
+  border-radius: 50px;
+  padding: 14px 24px;
 }
 
 .recipe {
-    font-size: 16px;
-    background-color: white;
-    padding: 20px;
-    line-height: 2;
-    border-left: 3px solid #885df1;
-    box-shadow: 0px, 20px, 60px, rgba(39, 33, 66, 0.03);
+  font-size: 16px;
+  background-color: white;
+  padding: 20px;
+  line-height: 2;
+  border-left: 3px solid #885df1;
+  box-shadow: 0px, 20px, 60px, rgba(39, 33, 66, 0.03);
 }
 
 footer {
-    text-align: center;
-    font-size: 13px;
-    margin-top: 30px;
+  text-align: center;
+  font-size: 13px;
+  margin-top: 30px;
 }
