@@ -13,7 +13,9 @@
     <header>
       <h1>AI Recipe generator</h1>
     </header>
+    
     <main>
+      <div class="form-container">
       <form id="recipe-generator-form">
         <input
           type="text"
@@ -26,7 +28,9 @@
         />
         <input type="submit" class="submit-button "/>
       </form>
-      <div class="recipe" id="recipe"></div>
+      <div class="hint">i.e: Apple, Chocolate, Chicken</div>
+      </div>
+      <div class="recipe hidden" id="recipe"></div>
       
       </body>
     </main>
@@ -46,6 +50,7 @@
         >hosted on Netlify</a
       >.
     </footer>
+    
     <script src="src/index.js"></script>
   </body>
 </html>
